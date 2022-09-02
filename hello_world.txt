@@ -1,0 +1,2 @@
+This is a great day! 
+My first commit to the GitHub repo was successful!
